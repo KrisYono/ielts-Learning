@@ -1,6 +1,8 @@
 # 第一周详细执行 · Day 1–7
 
-每天约 **90 分钟**。完成后在 [Progress.md](Progress.md) 打勾并写一句「明日调整」（如需）。
+每天约 **90 分钟**（听读说写）+ **约 15–20 分钟**（雅思词汇小说）。完成后在 [Progress.md](Progress.md) 打勾并写一句「明日调整」（如需）。
+
+**每日补充（统一）**：雅思词汇小说 1 章 → 选段译成英文 + 词汇附中文意思 + 地道表达摘抄与仿写。详见 [雅思词汇小说/使用说明.md](雅思词汇小说/使用说明.md)。
 
 ---
 
@@ -12,17 +14,19 @@
 - 自检：单复数、第三人称 -s、时态、无残句  
 
 **Listening（20 min）**  
-- 做 **Section 1** 一篇（或只做 Section 1 的题）  
-- 重点：数字、日期、拼写（人名/地名）  
-- 错题记到错题本（可写在 Progress 当天「听力错题」）  
+- 材料与任务 → **[Listening/Day1-Listening.md](Listening/Day1-Listening.md)**  
+- 做 Section 1 一篇，重点数字/拼写，错题记在文件里的表格  
 
 **Reading（15–20 min）**  
-- 读一篇 **短 passage**（G 类前几篇或一篇 A 类短文）  
-- 只练 **True / False / Not Given** 这几题  
+- 材料与题目 → **[Reading/Day1-Reading.md](Reading/Day1-Reading.md)**  
+- 一篇短 passage + 4 道 True/False/Not Given，答案在文件里  
 
 **Speaking（15 min）**  
-- **Part 2**：抽 1 个话题，说满 **1 分 30 秒**（可录音自听）  
-- 建议话题：Describe a place you visited that you particularly liked.  
+- 话题卡与提纲 → **[Speaking/Day1-Speaking.md](Speaking/Day1-Speaking.md)**  
+- Part 2：Describe a place you visited that you particularly liked，说满 1:30  
+
+**雅思词汇小说（15–20 min）**  
+- 读 1 章 → [使用说明](雅思词汇小说/使用说明.md)（选段译英文 + 词汇+中文 + 地道表达）  
 
 ---
 
@@ -40,10 +44,24 @@
 
 ## Day 2
 
-**Writing**：请求信 (Request letter)，30–40 min  
-**Listening**：Section 1，数字/拼写，20 min  
-**Reading**：短 passage，True/False/NG，15–20 min  
-**Speaking**：Part 2 一个话题，说满 1:30，15 min  
+**Writing（30–40 min）**  
+- 题型与题目 → **[Writing/Day2-Request-Letter.md](Writing/Day2-Request-Letter.md)**  
+- 请求信：搬去新城市工作，写信请朋友帮忙找住宿  
+
+**Listening（20 min）**  
+- 任务与错题表 → **[Listening/Day2-Listening.md](Listening/Day2-Listening.md)**  
+- Section 1 一篇，重点数字/拼写  
+
+**Reading（15–20 min）**  
+- 文章与 T/F/NG 题 → **[Reading/Day2-Reading.md](Reading/Day2-Reading.md)**  
+- 主题：Working from Home  
+
+**Speaking（15 min）**  
+- 话题卡与提纲 → **[Speaking/Day2-Speaking.md](Speaking/Day2-Speaking.md)**  
+- Part 2：Describe a person who has helped you  
+
+**雅思词汇小说（15–20 min）**  
+- 读 1 章 → [使用说明](雅思词汇小说/使用说明.md)  
 
 ---
 
@@ -53,6 +71,7 @@
 **Listening**：Section 1，20 min  
 **Reading**：短 passage，T/F/NG，15–20 min  
 **Speaking**：Part 2 一个话题，1:30，15 min  
+**雅思词汇小说**：1 章（选段译英文 + 词汇+中文 + 地道表达）  
 
 ---
 
@@ -62,6 +81,7 @@
 **Listening**：Section 1，20 min  
 **Reading**：短 passage，T/F/NG，15–20 min  
 **Speaking**：Part 2 一个话题，1:30，15 min  
+**雅思词汇小说**：1 章  
 
 ---
 
@@ -71,6 +91,7 @@
 **Listening**：Section 1，20 min  
 **Reading**：短 passage，T/F/NG，15–20 min  
 **Speaking**：Part 2 一个话题，1:30，15 min  
+**雅思词汇小说**：1 章  
 
 ---
 
@@ -80,6 +101,7 @@
 **Listening**：Section 1，20 min  
 **Reading**：短 passage，T/F/NG，15–20 min  
 **Speaking**：Part 2 一个话题，1:30，15 min  
+**雅思词汇小说**：1 章  
 
 ---
 
@@ -89,6 +111,7 @@
 **Listening**：Section 1，20 min  
 **Reading**：短 passage，T/F/NG，15–20 min  
 **Speaking**：Part 2 一个话题，1:30，15 min  
+**雅思词汇小说**：1 章  
 
 ---
 

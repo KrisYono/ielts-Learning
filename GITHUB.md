@@ -19,13 +19,15 @@ git branch -M main
 git push -u origin main
 ```
 
-例如仓库是 `yunu2/ielts-learning`，则：
+例如仓库是 `KrisYono/ielts-Learning`，则：
 
 ```powershell
-git remote add origin https://github.com/yunu2/ielts-learning.git
+git remote add origin https://github.com/KrisYono/ielts-Learning.git
 git branch -M main
 git push -u origin main
 ```
+
+（当前项目已用 HTTPS 推送到该仓库；若你未配置 SSH，用 HTTPS 即可。）
 
 ### 方法二：用 GitHub CLI 创建并推送
 

@@ -6,32 +6,34 @@
 
 ## Day 1
 
-- [ ] Writing：投诉信
+- [x] Writing：投诉信
 - [ ] Listening：Section 1 + 错题
 - [ ] Reading：短 passage + T/F/NG
 - [ ] Speaking：Part 2 ×1（1:30）
+- [ ] 雅思词汇小说：1 章（选段译英文 + 词汇+中文 + 地道表达）
 
-**今日完成情况**：（写一句，例如：写完了投诉信，听力错 3 题都是数字）
+**今日完成情况**：Writing 投诉信完成（写稿 + 批改）。听/读/说若做了可自己打勾。
 
 **明日调整**：（若 Day 2 想加/减任务就写这里）
 
 ---
 
-## Day 2
+## Day 2（今天 / Today）
 
-- [ ] Writing：请求信
-- [ ] Listening：Section 1
-- [ ] Reading：短 passage + T/F/NG
-- [ ] Speaking：Part 2 ×1
+- [ ] Writing：请求信（搬城市 + 请朋友帮找住宿）
+- [ ] Listening：Section 1 → [Day2-Listening.md](Listening/Day2-Listening.md)
+- [x] Reading：短 passage + T/F/NG → [Day2-Reading.md](Reading/Day2-Reading.md) ✅ 全对
+- [ ] Speaking：Part 2「一个帮助过你的人」→ [Day2-Speaking.md](Speaking/Day2-Speaking.md)
+- [ ] 雅思词汇小说：1 章 → [使用说明](雅思词汇小说/使用说明.md)
 
-**今日完成情况**：  
+**今日完成情况**：Reading 全对。晚上继续练听/说/写/词汇小说。  
 **明日调整**：
 
 ---
 
 ## Day 3–7
 
-（格式同 Day 2，每周结束后可补「Week 1 复盘」）
+（格式同 Day 2；每天均含「雅思词汇小说 1 章」，每周结束后可补「Week 1 复盘」）
 
 ---
 
