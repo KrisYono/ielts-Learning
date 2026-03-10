@@ -31,7 +31,20 @@
 
 ---
 
-## Day 3–7
+## Day 3 · 断档回来（轻量重启）
+
+> 耽误了几天没关系，今天只做 **2 件事** 就算成功；有余力再加第 3 件。
+
+- [x] **Reading**：长阅读 [长阅读练习.md](Reading/长阅读练习.md) ✅ 已做，错 1–2 题已改正
+- [ ] **Writing**：Day2 请求信 [Day2-Request-Letter.md](Writing/Day2-Request-Letter.md) 写提纲 + 开头两段即可（约 20 min）
+- [ ] （可选）Listening：Section 1 一篇 [Day2-Listening.md](Listening/Day2-Listening.md)
+
+**今日完成情况**：长阅读已完成并订正。  
+**明日调整**：
+
+---
+
+## Day 4–7
 
 （格式同 Day 2；每天均含「雅思词汇小说 1 章」，每周结束后可补「Week 1 复盘」）
 
