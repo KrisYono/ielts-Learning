@@ -21,12 +21,12 @@
 ## Day 2（今天 / Today）
 
 - [ ] Writing：请求信（搬城市 + 请朋友帮找住宿）
-- [ ] Listening：Section 1 → [Day2-Listening.md](Listening/Day2-Listening.md)
+- [x] Listening：Section 1（自编题 10/10）✅
 - [x] Reading：短 passage + T/F/NG → [Day2-Reading.md](Reading/Day2-Reading.md) ✅ 全对
-- [ ] Speaking：Part 2「一个帮助过你的人」→ [Day2-Speaking.md](Speaking/Day2-Speaking.md)
+- [x] Speaking：Part 2「一个帮助过你的人」+ Part 3 追问 ✅
 - [ ] 雅思词汇小说：1 章 → [使用说明](雅思词汇小说/使用说明.md)
 
-**今日完成情况**：Reading 全对。晚上继续练听/说/写/词汇小说。  
+**今日完成情况**：Writing 请求信（7分）、Reading 全对、Speaking Part2+3（6-6.5）、Listening 10/10。词汇小说翻到第9段。  
 **明日调整**：
 
 ---

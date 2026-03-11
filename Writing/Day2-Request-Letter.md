@@ -75,19 +75,18 @@
 **改后完整版**：
 
 ```
-Dear Customer Service,
+Dear Sir or Madam,
 
-I am writing to request an apology and the removal of a video posted by your manager, following a misunderstanding.
+I am writing to request a formal apology and the removal of a video posted by one of your managers following a misunderstanding that occurred in your store.
 
-I had already paid for my goods, but the manager insisted that I had not paid. Even when I asked him to check the monitor history, and proved that I had not stolen the goods, he still refused to apologise to me. This made me lose my temper, and I eventually had to call the police for help. He also posted a video on TikTok, which has disturbed my daily life.
+I had already paid for my items, but the manager insisted that I had not. Even after I asked him to check the CCTV footage, which clearly showed that I had paid, he refused to apologise. As a result, I became extremely frustrated and eventually had to call the police for assistance. To make matters worse, he later posted a video of the incident on TikTok, which has seriously disturbed my daily life.
 
-I would be grateful if you could ask the manager to delete the video and to make a formal apology to me.
+I would be grateful if you could ask the manager to remove the video immediately and provide a formal apology for the inconvenience and distress caused.
 
-I look forward to your reply. Please let me know if you need any further information.
+I look forward to your reply. Please do not hesitate to contact me if you require any further information.
 
 Yours faithfully,
 Nu
-```
 
 （英式拼写：apologise；美式：apologize。全文统一即可。）
 
